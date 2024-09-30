@@ -2,19 +2,79 @@ body {
     font-family: 'Manrope', sans-serif;
     font-weight: 400px;
 }
-h1{
+
+.header {
+    width: 1151px;
+    height: 25px;
+    margin-top: 32.82px;
+    margin-left: 124.65px;
+}
+
+h1 {
     font-size: 60px;
     line-height: 60px;
     color: #121212;
+    margin-bottom: 30px;
 }
-p {
+
+.block {
+    width: 1150px;
+    height: 650px;
+    margin-left: 125px;
+    margin-bottom: 150px;
+    margin-top: 70px;
+}
+.interior-1_body {
+    
+    background-image: url('../resources/interior-1.png');
+    height: 500px;
+    
+}
+.interior-1_body-text {
     font-size: 20px;
     line-height: 27px;
+    color: #fff;
+    width: 430px;
+    
+    padding-left: 40px;
+    padding-top: 379px;
+}     
+
+.about_us {
+    margin-left: 125px;
+    width: 1051px;
+    height: 518px;
     color: #121212;
 }
+
 h2 {
     font-size: 18px;
     line-height: 25px;
     text-transform: uppercase;
-    color: #121212;
+    padding-bottom: 30px;
 }
+ .about_us_text {
+    font-size: 45px;
+    line-height: 61px;
+    padding-left: 3px;
+    
+ }
+a {
+    display: block;
+    width: 255px;
+    height: 67px;
+    margin-left: 1px;
+    margin-top: 30px;
+    text-align: center;
+
+    color: #fff;
+    font-family: 'Manrope', sans-serif;
+    font-size: 20px;
+    font-weight: 400px;
+    line-height: 67px;
+    text-decoration: none;
+    background-color: #ad1818;
+    border-radius: 5px;
+
+    
+ }
